@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#cabecalho{
+
+    background-color: pink;
+    height: 150px;
+    padding: 10px;
+}
+
+#logo{
+    background-color: deeppink;
+    border-radius: 50px;
+
+    
+    height: 70px;
+    width: 70px;
+}
+
